@@ -12,3 +12,5 @@ divider (---) :arrow_down_small:
  
 ---
 *This is an italicized text* (* *)
+
+> This is a blockquote text (>)
