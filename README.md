@@ -57,7 +57,7 @@ Here's a sentence with a footnote. See below [^1]
 
 term
 : definition
-
+~~ Strikethrough .~~
 
 
 
