@@ -14,3 +14,10 @@ divider (---) :arrow_down_small:
 *This is an italicized text* (* *)
 
 > This is a blockquote text (>)
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
