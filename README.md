@@ -15,9 +15,13 @@ divider (---) :arrow_down_small:
 
 > This is a blockquote text (>)
 
-1. First item
+1. Ordered list   (1.)
 2. Second item
 3. Third item
     1. Indented item
     2. Indented item
 4. Fourth item
+
+- Unordered list item 1  (-)
+- Unordered list item 2
+- Unordered list item 3
