@@ -8,7 +8,7 @@ This is a normal text without any markdown. Lorem ipsum dolor sit amet dolore. E
 
 **This is a bold text.** (** **)
 
-divider (---) :arrow_down_small:
+horizontal rule (---) :arrow_down_small:
  
 ---
 *This is an italicized text* (* *)
