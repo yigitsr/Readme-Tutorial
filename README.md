@@ -65,7 +65,7 @@ term
 - [ ] To-do item 2
 - [ ] To-do item 3
 
-We can also use emojis ! :joy: :heart: :spades: :moon: 
+We can also use emojis ! :joy: :heart: :spades: :full_moon_with_face: 
 
 
 
