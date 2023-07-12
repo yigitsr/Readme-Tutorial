@@ -26,4 +26,4 @@ horizontal rule (---) :arrow_down_small:
 - Unordered list item 2
 - Unordered list item 3
 
-`alert('hey beautiful!')`   (` `)
+`alert('hey beautiful!')`   (````)
