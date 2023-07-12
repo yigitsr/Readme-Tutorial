@@ -28,4 +28,5 @@ horizontal rule (---) :arrow_down_small:
 
 `alert('hey beautiful!')`   (` `` `)
 
-This is a link [Markdown Guida](https://www.markdownguide.org/cheat-sheet/).
+This is a link [Markdown Guida](https://www.markdownguide.org/cheat-sheet/ "whatever").
+
