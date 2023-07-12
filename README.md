@@ -65,6 +65,7 @@ term
 - [ ] To-do item 2
 - [ ] To-do item 3
 
+We can also use emojis ! :joy: :heart: :spades: :moon: 
 
 
 
