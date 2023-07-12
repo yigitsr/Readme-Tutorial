@@ -42,3 +42,11 @@ This is a link [Markdown Guida](https://www.markdownguide.org/cheat-sheet/).
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
