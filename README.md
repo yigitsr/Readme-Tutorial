@@ -71,7 +71,4 @@ I need to highlight these ==so called important words==.
 
 H~2~O
 
-X^2^
-
-
 [^1]: This is the footnote.
