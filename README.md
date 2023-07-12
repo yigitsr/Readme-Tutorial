@@ -1,4 +1,3 @@
-# Readme-Tutorial
 # Basic Syntax
 
 ---
