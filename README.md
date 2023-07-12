@@ -26,4 +26,4 @@ divider (---) :arrow_down_small:
 - Unordered list item 2
 - Unordered list item 3
 
-`alert('hey beaufiful!')`   (`code`=)
+`alert('hey beautiful!')`   (`code`)
