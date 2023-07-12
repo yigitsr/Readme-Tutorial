@@ -60,6 +60,9 @@ term
 
 ~~Strikethrough.~~
 
+- [x] To-do item 1
+- [ ] To-do item 2
+- [ ] To-do item 3
 
 
 
