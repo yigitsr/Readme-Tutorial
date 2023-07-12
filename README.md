@@ -69,5 +69,8 @@ We can also use emojis ! :joy: :heart: :spades: :full_moon_with_face:
 
 I need to highlight these ==so called important words==.
 
+H~2~O
+X^2^
+
 
 [^1]: This is the footnote.
