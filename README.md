@@ -15,7 +15,7 @@ horizontal rule (---) :arrow_down_small:
  
 ---
 *This is an italicized text* (* *)
-
+a
 > This is a blockquote text (>)
 
 1. Ordered list   (1.)
@@ -50,3 +50,7 @@ This is a link [Markdown Guida](https://www.markdownguide.org/cheat-sheet/).
   "age": 25
 }
 ```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
