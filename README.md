@@ -8,6 +8,6 @@ This is a normal text without any markdown. Lorem ipsum dolor sit amet dolore. E
 
 **This is a bold text.** (** **)
 
-divider (---)
-
+divider (---) :arrow_down_small:
+ 
 ---
