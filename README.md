@@ -34,3 +34,6 @@ horizontal rule (---) :arrow_down_small:
 This is a link [Markdown Guida](https://www.markdownguide.org/cheat-sheet/).
 
 ![Code Image](/test-img.png "code img")
+
+---
+
